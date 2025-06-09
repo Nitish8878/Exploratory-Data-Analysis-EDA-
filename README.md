@@ -2,7 +2,7 @@
 Extract insights using visual and statistical exploration.
 
 ## Variable Notes
-pclass: A proxy for socio-economic status (SES).
+ ### pclass: A proxy for socio-economic status (SES).
 
 1st = Upper
 
@@ -10,7 +10,7 @@ pclass: A proxy for socio-economic status (SES).
 
 3rd = Lower
 
- age: Age is fractional if less than 1. If the age is estimated, is it in the form of xx.5
+### age: Age is fractional if less than 1. If the age is estimated, is it in the form of xx.5
 
 ### sibsp: The dataset defines family relations in this way...
 
@@ -18,7 +18,7 @@ Sibling = brother, sister, stepbrother, stepsister
 
 Spouse = husband, wife (mistresses and fiancés were ignored)
 
-parch: The dataset defines family relations in this way...
+### parch: The dataset defines family relations in this way...
 
 Parent = mother, father
 
